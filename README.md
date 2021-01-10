@@ -5,10 +5,10 @@ Styleguide for Kryptokrona
 # Logo
 
 #### Black
-https://user-images.githubusercontent.com/36674091/104137639-4dc6b500-5396-11eb-9c45-03062e0f65f7.png
+![LogoBlack](https://user-images.githubusercontent.com/36674091/104137639-4dc6b500-5396-11eb-9c45-03062e0f65f7.png)
 
 #### White
-https://user-images.githubusercontent.com/36674091/104137640-4e5f4b80-5396-11eb-9cda-5554620d2a47.png
+![LogoWhite](https://user-images.githubusercontent.com/36674091/104137640-4e5f4b80-5396-11eb-9cda-5554620d2a47.png)
 
 
 # Fonts
