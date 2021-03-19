@@ -5,15 +5,18 @@ Styleguide for Kryptokrona
 # Logo
 
 #### Black
+
 ![LogoBlack](https://user-images.githubusercontent.com/36674091/104137639-4dc6b500-5396-11eb-9c45-03062e0f65f7.png)
 
 #### White
+
 ![LogoWhite](https://user-images.githubusercontent.com/36674091/104137640-4e5f4b80-5396-11eb-9cda-5554620d2a47.png)
 
 
 # Fonts
 
-#### Font 1
+Title
+[Montserrat Bold](https://github.com/kryptokrona/Styleguide/raw/main/Fonts/Montserrat-Bold.ttf) 
 
 #### Font 2
 
@@ -25,6 +28,8 @@ Styleguide for Kryptokrona
 #### Light theme
 
 #### Dark theme
+
+
 
 # Gradient
 
@@ -55,4 +60,3 @@ This is the RGB gradient we use to make things pop!
       100%{background-position:0% 50%}
   }
 ```
-
