@@ -25,10 +25,8 @@ Title
 
 # Color
 
-#### Light theme
-
 #### Dark theme
-
+![Darktheme](https://user-images.githubusercontent.com/36674091/111849650-03b5fe80-8906-11eb-8f00-5355fb66efd3.png)
 
 
 # Gradient
