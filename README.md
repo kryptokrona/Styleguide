@@ -35,27 +35,30 @@ Title
 This is the RGB gradient we use to make things pop!
 
 ```css
-  .gradient {
-    background: linear-gradient(60deg, #5f86f2, #a65ff2, #f25fd0, #f25f61, #f2cb5f, #abf25f, #5ff281, #5ff2f0) !important;
-    background-size: 1000% 1000% !important;
-    -webkit-animation: AnimationName 60s ease infinite;
-    -moz-animation: AnimationName 60s ease infinite;
-    animation: AnimationName 60s ease infinite alternate;
+@keyframes rgb {
+  0%, 100% {
+    background: #5f86f2;
   }
-
-  @-webkit-keyframes AnimationName {
-      0%{background-position:0% 50%}
-      50%{background-position:100% 50%}
-      100%{background-position:0% 50%}
+  12.5% {
+    background: #a65ff2;
   }
-  @-moz-keyframes AnimationName {
-      0%{background-position:0% 50%}
-      50%{background-position:100% 50%}
-      100%{background-position:0% 50%}
+  25% {
+    background: #f25fd0;
   }
-  @keyframes AnimationName {
-      0%{background-position:0% 50%}
-      50%{background-position:100% 50%}
-      100%{background-position:0% 50%}
+  37.5% {
+    background: #f25f61;
   }
+  50% {
+    background: #f2cb5f;
+  }
+  62.5% {
+    background: #abf25f;
+  }
+  75% {
+    background: #5ff281;
+  }
+  87.5% {
+    background: 5ff2f0;
+  }
+}
 ```
