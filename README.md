@@ -26,8 +26,9 @@ Title
 # Color
 
 #### Dark theme
-![Darktheme](https://user-images.githubusercontent.com/36674091/111849650-03b5fe80-8906-11eb-8f00-5355fb66efd3.png)
-#171416, #272527, #2E2C2E, #464346
+
+![Darktheme](https://user-images.githubusercontent.com/36674091/111849650-03b5fe80-8906-11eb-8f00-5355fb66efd3.png) <br>
+f171416, #272527, #2E2C2E, #464346
 
 # Gradient
 
