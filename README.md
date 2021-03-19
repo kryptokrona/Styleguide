@@ -64,7 +64,7 @@ Add `class="rgb"` or if you already have a class then `class="example rgb"`
   }
 }
 ```
-```
+```css
 .rgb {
 
   background: #5f86f2;
