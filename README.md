@@ -32,7 +32,9 @@ Title
 
 # Gradient
 
-This is the RGB gradient we use to make things pop!
+This is the RGB gradient we use to make things pop! <br>
+
+Add `class="rgb"` or if you already have a class then `class="example rgb"`
 
 ```css
 @keyframes rgb {
@@ -61,4 +63,13 @@ This is the RGB gradient we use to make things pop!
     background: 5ff2f0;
   }
 }
+```
+```
+.rgb {
+
+  background: #5f86f2;
+  -webkit-animation: rgb 30s ease infinite;
+  -moz-animation: rgb 30s ease infinite;
+  animation: rgb 30s ease infinite;
+} 
 ```
