@@ -1,3 +1,6 @@
+<a href="https://chat.kryptokrona.se"><img src="https://img.shields.io/discord/562673808582901793?label=Discord&logo=Discord&logoColor=white&style=plastic"></a>
+<a href="https://twitter.com/kryptokrona"><img src="https://img.shields.io/twitter/follow/kryptokrona?style=social"></a>
+
 # Styleguide
 
 Styleguide for Kryptokrona
