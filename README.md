@@ -33,11 +33,11 @@ Title
 ![Darktheme](https://user-images.githubusercontent.com/36674091/111849650-03b5fe80-8906-11eb-8f00-5355fb66efd3.png) <br>
 #171416, #272527, #2E2C2E, #464346
 
-# Gradient
+# Gradient Background
 
 This is the RGB gradient we use to make things pop! <br>
 
-Add `class="rgb"` or if you already have a class then `class="example rgb"`
+Add `class="rgb"` to a html element or if you already have a class then `class="example rgb"`
 
 ```css
 @keyframes rgb {
@@ -63,7 +63,7 @@ Add `class="rgb"` or if you already have a class then `class="example rgb"`
     background: #5ff281;
   }
   87.5% {
-    background: 5ff2f0;
+    background: #5ff2f0;
   }
 }
 ```
@@ -74,5 +74,49 @@ Add `class="rgb"` or if you already have a class then `class="example rgb"`
   -webkit-animation: rgb 30s ease infinite;
   -moz-animation: rgb 30s ease infinite;
   animation: rgb 30s ease infinite;
+} 
+```
+# Gradient Text
+
+Or use this to make a text pop! <br>
+
+Add `class="rgbText"` to a html element or if you already have a class then `class="example rgbText"`
+
+```css
+@keyframes rgbText {
+  0%, 100% {
+    color: #5f86f2;
+  }
+  12.5% {
+    color: #a65ff2;
+  }
+  25% {
+    color: #f25fd0;
+  }
+  37.5% {
+    color: #f25f61;
+  }
+  50% {
+    color: #f2cb5f;
+  }
+  62.5% {
+    color: #abf25f;
+  }
+  75% {
+    color: #5ff281;
+  }
+  87.5% {
+    color: #5ff2f0;
+  }
+}
+```
+
+```css
+.rgbText {
+
+  color: #5f86f2;
+  -webkit-animation: rgbText 10s ease infinite;
+  -moz-animation: rgbText 10s ease infinite;
+  animation: rgbText 10s ease infinite;
 } 
 ```
