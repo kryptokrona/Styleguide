@@ -7,11 +7,19 @@ Styleguide for Kryptokrona
 
 # Logo
 
-#### Black
+#### Black symbol
+
+![SymbolBlack](https://raw.githubusercontent.com/kryptokrona/Styleguide/66d56e5945d9f7a758d8f899f4e00bff5e97fec1/Logo/Black%20-%20logo.svg)
+
+#### White symbol
+
+![SymbolWhite](https://raw.githubusercontent.com/kryptokrona/Styleguide/66d56e5945d9f7a758d8f899f4e00bff5e97fec1/Logo/White%20-%20logo.svg)
+
+#### Black with text
 
 ![LogoBlack](https://user-images.githubusercontent.com/36674091/104137639-4dc6b500-5396-11eb-9c45-03062e0f65f7.png)
 
-#### White
+#### White with text
 
 ![LogoWhite](https://user-images.githubusercontent.com/36674091/104137640-4e5f4b80-5396-11eb-9cda-5554620d2a47.png)
 
@@ -21,9 +29,7 @@ Styleguide for Kryptokrona
 Title
 [Montserrat Bold](https://github.com/kryptokrona/Styleguide/raw/main/Fonts/Montserrat-Bold.ttf) 
 
-#### Font 2
-
-#### Font 3
+#### 
 
 
 # Color
